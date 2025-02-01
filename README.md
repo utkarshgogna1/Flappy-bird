@@ -2,7 +2,7 @@
 
 Watch a genetic/evolutionary algorithm (NEAT) slowly progress and teach itself to play Flappy Bird! This project uses the **NEAT-Python** module to evolve a population of neural networks that learn how to navigate the pipes.
 
-![NEAT Flappy Bird Demo](./path/to/screenshot.png)
+![NEAT Flappy Bird Demo](imgs/Demo.png)
 
 ---
 
